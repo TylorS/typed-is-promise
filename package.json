@@ -1,6 +1,6 @@
 {
   "name": "@typed/is-promise",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Check if a value is a Promise",
   "main": "lib/index.js",
   "scripts": {
